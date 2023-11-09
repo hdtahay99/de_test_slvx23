@@ -1,6 +1,6 @@
 
 
-## Data Engineerint Test - SLVX23
+## Data Engineering Test - SLVX23
 
 Please run the following commands in your local environment: 
 
